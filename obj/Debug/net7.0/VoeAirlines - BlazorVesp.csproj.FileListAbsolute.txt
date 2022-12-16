@@ -1,0 +1,32 @@
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\appsettings.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\VoeAirlines - BlazorVesp.staticwebassets.runtime.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\VoeAirlines - BlazorVesp.exe
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\VoeAirlines - BlazorVesp.deps.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\VoeAirlines - BlazorVesp.runtimeconfig.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\VoeAirlines - BlazorVesp.dll
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\bin\Debug\net7.0\VoeAirlines - BlazorVesp.pdb
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.csproj.AssemblyReference.cache
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.AssemblyInfoInputs.cache
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.AssemblyInfo.cs
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.csproj.CoreCompileInputs.cache
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.RazorAssemblyInfo.cache
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.RazorAssemblyInfo.cs
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets\msbuild.VoeAirlines - BlazorVesp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets\msbuild.build.VoeAirlines - BlazorVesp.props
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VoeAirlines - BlazorVesp.props
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VoeAirlines - BlazorVesp.props
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\scopedcss\bundle\VoeAirlines - BlazorVesp.styles.css
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\scopedcss\projectbundle\VoeAirlines - BlazorVesp.bundle.scp.css
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.dll
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\refint\VoeAirlines - BlazorVesp.dll
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.pdb
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\VoeAirlines - BlazorVesp.genruntimeconfig.cache
+C:\Users\helio\OneDrive\Área de Trabalho\VoeAirlines - BlazorVesp\obj\Debug\net7.0\ref\VoeAirlines - BlazorVesp.dll
